@@ -1,11 +1,27 @@
-## 😁I'm a young computer scientist
 
-## Languages
-<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/maichien1232001/Music/main/more_icons/fontawesome-free-6.1.1-web/fontawesome-free-6.1.1-web/svgs/solid/chess-pawn.svg'> </a>
+## 😎I'm a young computer scientist, from Argentina, Buenos aires
 
-## Frameworks
-<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
-<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
+</div>
+<h1 align="center">Languages</h1>
+<div align="center">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/c.svg"
+             title="C" alt="C"
+             width="60" height="60"/></a>&nbsp;
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/cpp.svg"
+             title="Cpp" alt="Cpp "
+             width="60" height="60"/></a>&nbsp;       
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/python.svg"
+             title="Python" alt="Python"
+             width="60" height="60"/></a>&nbsp;
+</div>
+
+</div>
+<h1 align="center">Frameworks</h1>
+<div align="center">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Framework/django.svg"
+             title="Django" alt="Django"
+             width="50" height="50"/></a>&nbsp;
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Framework/flask.svg"
+             title="Flask" alt="Flask"
+             width="50" height="50"/></a>&nbsp;
+</div>
