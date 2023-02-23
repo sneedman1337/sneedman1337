@@ -1,5 +1,5 @@
 
-## 😎I'm a young computer scientist, from Argentina, Buenos aires
+## 😎 I'm a young computer scientist from Argentina, Buenos aires
 
 </div>
 <h1 align="center">Languages</h1>
