@@ -19,6 +19,6 @@ I am sneedman, a young computer scientist from Buenos aires, Argentina.
 </div>
 
 #
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="Python" width="1100" height="200">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="Python" width="1100">
 
 
