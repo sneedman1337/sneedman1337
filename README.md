@@ -1,27 +1,23 @@
 
-## 😎 I'm a young computer scientist from Argentina, Buenos aires
+# ¡Hi! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" alt="gif" width="30" height="30">
 
-</div>
-<h1 align="center">Languages</h1>
-<div align="center">
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/c.svg"
-             title="C" alt="C"
-             width="60" height="60"/></a>&nbsp;
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/cpp.svg"
-             title="Cpp" alt="Cpp "
-             width="60" height="60"/></a>&nbsp;       
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/python.svg"
-             title="Python" alt="Python"
-             width="60" height="60"/></a>&nbsp;
+I am sneedman, a young computer scientist from Buenos aires, Argentina.
+
+# Languages
+<div align="left">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/python.svg" alt="Python" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/c.svg" alt="C" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/cpp.svg" alt="C++" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/rust.svg" alt="Rust" width="50" height="50">
 </div>
 
+# technologies
+<div align="left">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/mongodb.svg" alt="mongodb" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/flask.svg" alt="flask" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/fastapi.svg" alt="fastapi" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/django.svg" alt="django" width="50" height="50">
 </div>
-<h1 align="center">Frameworks</h1>
-<div align="center">
-        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Framework/django.svg"
-             title="Django" alt="Django"
-             width="50" height="50"/></a>&nbsp;
-        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Framework/flask.svg"
-             title="Flask" alt="Flask"
-             width="50" height="50"/></a>&nbsp;
-</div>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="Python" height="500">
+
+
