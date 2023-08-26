@@ -13,6 +13,7 @@
         <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/javascript.svg" alt="js" width="50" height="50">
         <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/mongodb.svg" alt="mongodb" width="50" height="50">
         <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/django.svg" alt="django" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/svelte.svg" alt="svelte" width="50" height="50">
 </div>
 
 #
