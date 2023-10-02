@@ -5,17 +5,6 @@
         I am sneedman, a young computer scientist from Buenos aires, Argentina.
 </div>
 
-# Technologies
-<div align="center">
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/python.svg" alt="Python" width="50" height="50">
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/c.svg" alt="C" width="50" height="50">
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/cpp.svg" alt="C++" width="50" height="50">
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/javascript.svg" alt="js" width="50" height="50">
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/mongodb.svg" alt="mongodb" width="50" height="50">
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/django.svg" alt="django" width="50" height="50">
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/svelte.svg" alt="svelte" width="50" height="50">
-</div>
-
 #
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="Python" width="1100">
 
